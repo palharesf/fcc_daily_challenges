@@ -49,3 +49,6 @@ has_exoplanet("MONOPLONOMONPLNOMPNOMP")
 has_exoplanet("FREECODECAMP")
 has_exoplanet("9AB98AB9BC98A")
 has_exoplanet("ZXXWYZXYWYXZEGZXWYZXYGEE")
+
+# Comments: the prompt was a bit obtuse, but when it came to the implementation, it wasn't the most difficult.
+# I lost a lot of time because I thought we had to compare the minimum lum reading with the maximum, when in reality it was compared against the average
